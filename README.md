@@ -63,7 +63,7 @@ This project relies on the following libraries, which are managed using [vcpkg](
 1. **Clone the OBJViewer repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zaedynk/OBJViewer
    cd OBJViewer
    ```
 

@@ -1,4 +1,3 @@
-
 # OBJViewer
 
 OBJViewer is a simple application designed to load and display 3D object files. It uses modern OpenGL for rendering and provides a basic framework for handling input, shaders, and textures.
@@ -64,7 +63,7 @@ This project relies on the following libraries, which are managed using [vcpkg](
 
    ```bash
    git clone https://github.com/zaedynk/OBJ-Viewer
-   cd OBJViewer
+   cd OBJViewer/OBJViewer
    ```
 
 2. **Create a build directory**:
